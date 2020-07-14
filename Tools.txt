@@ -1,0 +1,21 @@
+Hardware requirements:
+
+Raspberry Pi 3 model B+
+PIR Sensor
+PI camera
+Micro SD card
+Bread Board
+Resistor (1k)
+Connecting wires
+Power supply(power adapter 5V 2.5A)
+Buzzer
+
+Software requirements:
+
+Raspbian Operating System
+Advanced ip scanner
+Sd card formatter
+Putty
+Win32 Disk Imager
+Xming server
+VNC viewer
